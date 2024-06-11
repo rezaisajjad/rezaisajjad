@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaisajjad&show_icons=true&locale=en" alt="rezaisajjad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaisajjad&" alt="rezaisajjad" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezaisajjad&theme=dark&hide_border=true&mode=weekly&card_width=500&card_height=205&fire=EB0000&ring=EB9303&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
